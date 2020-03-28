@@ -1,0 +1,35 @@
+body {
+    background-image: url("../images/breaking_benjamin_background.jpg");
+}
+h1 {
+    color: red;
+    font-family: Monaco;
+    text-transform: uppercase;
+    text-shadow: 3px 2px white;
+}
+h2 {
+    color: white;
+    font-family: Monaco;
+    text-transform: uppercase;
+    text-shadow: 3px 2px red;
+}
+#p1 {
+    color: white;
+    font-family: Monaco;
+}
+h3 {
+    color: white;
+    font-family: Monaco;
+    text-transform: uppercase;
+    text-shadow: 3px 2px red;
+}
+ol {
+    color: white;
+    font-family: Monaco;
+}
+h4 {
+    color: white;
+    font-family: Monaco;
+    text-transform: uppercase;
+    text-shadow: 3px 2px red;
+}
